@@ -8,7 +8,7 @@ I've been on working on polishing my skills in the field of web-dev and looking 
 
 * 🌍  I'm based in Faridabad,Haryana,India
 * ✉️  You can contact me at [lokeshnegi649@gmail.com](mailto:lokeshnegi649@gmail.com)
-* 🚀  I'm currently working on [A full-stack chat app](http://github.com/Lokesh01/chit-chat)
+* 🚀  I'm currently working A full-stack [chat app](http://github.com/Lokesh01/chit-chat)
 * 🧠  I'm learning Node.js, Express.js basically starting my backend journey
 * ⚡  Looking for an opportunity to put my skills to work.
 
