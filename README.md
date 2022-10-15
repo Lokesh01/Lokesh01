@@ -11,6 +11,7 @@ I've been on working on polishing my skills in the field of web-dev and looking 
 * 🚀  I'm currently working A full-stack [chat app](http://github.com/Lokesh01/chit-chat)
 * 🧠  I'm learning Node.js, Express.js basically starting my backend journey
 * ⚡  Looking for an opportunity to put my skills to work.
+* 🚀  Jack of all trades master of one.
 
 ### Skills
 
