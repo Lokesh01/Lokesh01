@@ -4,13 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I've been on working on polishing my skills in the field of web-dev and looking for an opportunity to learn more with a friendly and growing organization.
+Passionate web developer seeking opportunities to refine my skills and contribute to a collaborative and thriving organization.
 
 * 🌍  I'm based in Faridabad,Haryana,India
 * ✉️  You can contact me at [lokeshnegi649@gmail.com](mailto:lokeshnegi649@gmail.com)
-* 🚀  I'm currently working A full-stack [chat app](http://github.com/Lokesh01/chit-chat)
-* 🧠  I'm learning Node.js, Express.js basically starting my backend journey
-* ⚡  Looking for an opportunity to put my skills to work.
+* 🚀  I'm currently working at a [Hashcube](https://www.hashcube.com/)
+* 🧠 Looking for an opportunity to put my skills to work. 
 * 🚀  Jack of all trades master of one.
 
 ### Skills
