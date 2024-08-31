@@ -8,7 +8,7 @@ Passionate web developer seeking opportunities to refine my skills and contribut
 
 * 🌍  I'm based in Faridabad,Haryana,India
 * ✉️  You can contact me at [lokeshnegi649@gmail.com](mailto:lokeshnegi649@gmail.com)
-* 🚀  I'm currently working at a startup [Uparcel](https://www.uparcel.sg/) specialized in casual mobile games.
+* 🚀  I'm currently working at [Uparcel](https://www.uparcel.sg/) specialized in same day delivery and logistics.
 * 🧠 Looking for an opportunity to put my skills to work. 
 * 🚀  Jack of all trades master of one.
 
