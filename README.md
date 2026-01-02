@@ -8,8 +8,8 @@ Passionate web developer seeking opportunities to refine my skills and contribut
 
 * 🌍  I'm based in Faridabad,Haryana,India
 * ✉️  You can contact me at [lokeshnegi649@gmail.com](mailto:lokeshnegi649@gmail.com)
-* 🚀  I'm currently working at a singapore based startup building a platform for helping insurance agents with the help AI tools and technology.
-* 🧠 Looking for an opportunity to put my skills to work. 
+* 🚀  I’m currently working at a Singapore-based startup building an AI-powered platform to help insurance agents work more efficiently.
+* 🧠  Looking for an opportunity to put my skills to work. 
 * 🚀  Jack of all trades master of one.
 
 ### Skills
