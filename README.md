@@ -48,9 +48,7 @@ Passionate web developer seeking opportunities to refine my skills and contribut
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Lokesh01&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Top Languages" />
 </a><br/><br/>
 
-<a href="http://www.github.com/Lokesh01">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Lokesh01&show_icons=true&hide=prs,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Lokesh01's GitHub stats" />
-</a><br/><br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lokesh01&theme=github_dark" alt="Lokesh01's GitHub stats" /><br/><br/
 
 <a href="http://www.github.com/Lokesh01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Lokesh01&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
